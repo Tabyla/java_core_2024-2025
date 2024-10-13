@@ -9,7 +9,6 @@ public class Main {
     public static void main(String[] args) {
         String inputFileName = "src/Laba2/timus/task_2100/input.txt";
         boolean oj = System.getProperty("ONLINE_JUDGE") != null;
-        ;
         int marshalAndLilly = 2;
 
         try {
