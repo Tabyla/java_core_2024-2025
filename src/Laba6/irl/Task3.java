@@ -61,7 +61,6 @@ public class Task3 {
             numbers[i] = scanner.nextInt();
         }
 
-        // Вызов методов
         System.out.println("\nМассив чисел: " + Arrays.toString(numbers));
         System.out.println("Максимальное значение: " + findMax(numbers));
         System.out.println("Минимальное значение: " + findMin(numbers));
